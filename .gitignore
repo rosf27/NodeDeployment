@@ -1,0 +1,6 @@
+node_modules/
+variables.env
+productos.json
+ventas.json
+usuarios.json
+users.json
