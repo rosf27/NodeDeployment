@@ -1,0 +1,3 @@
+{"_id":{"$oid":"616b6ae6cf8fc6d9b8b4e58a"},"telefono":3.013181889E+09,"fecha_nacimiento":{"$date":{"$numberLong":"-57780000000"}},"cedula":70083542,"nombres":"Rodrigo Oswaldo","apellidos":"Sanchez Forero","ocupacion":"administrador","__v":0}
+{"_id":{"$oid":"616b6b50cf8fc6d9b8b4e58d"},"telefono":3.006784532E+09,"fecha_nacimiento":{"$date":"1989-05-12T06:00:00Z"},"cedula":1121847343,"nombres":"Angelica","apellidos":"Jaime","ocupacion":"vendedor","__v":0}
+{"_id":{"$oid":"616b6bddcf8fc6d9b8b4e58f"},"telefono":3.014507865E+09,"fecha_nacimiento":{"$date":"2003-04-23T05:00:00Z"},"cedula":1093589972,"nombres":"Frank","apellidos":"Barrera","ocupacion":"vendedor","__v":0}

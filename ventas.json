@@ -1,0 +1,4 @@
+{"_id":{"$oid":"616b705229538970e9ef41e3"},"costo_u":130000000,"cantidad":3,"codigo":"123N13","descripcion":"FordScape hibrida","__v":0}
+{"_id":{"$oid":"616b70a429538970e9ef41e5"},"costo_u":480000,"cantidad":1,"codigo":"45D098","descripcion":"Juego de pesas por 10","__v":0}
+{"_id":{"$oid":"616b70cd29538970e9ef41e7"},"costo_u":3890000,"cantidad":1,"codigo":"567EL004","descripcion":"Nevecon Whirpool 300 lt","__v":0}
+{"_id":{"$oid":"616b70f029538970e9ef41e9"},"costo_u":2100000,"cantidad":1,"codigo":"67C156","descripcion":"Lenovo15.6p","__v":0}
