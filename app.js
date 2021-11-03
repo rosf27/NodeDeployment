@@ -19,7 +19,7 @@ app.set('view engine', '.hbs')
 app.use('/api', api)
 
 app.get("/login", (req, res) => {
-    res.render('./Login', {
+    res.render('./login', {
         title: "Login VentaSoft",
         style: './css/login.css',
         description: 'Pagina de Login de VentaSoft'
