@@ -17,7 +17,7 @@ function createToken(user) {
 function decodeToken(token) {
     const decoded = new Promise((resolve, reject) => {
         try {
-            const payload = jwt.decode(token, config.SECRET_TOKEN, 'HS256')  
+            const payload = jwt.decode(token, config.SECRET_TOKEN,'HS256')  
             if(payload.exp <= moment().unix()){
                 //console.log('reject 401, token expirado')
                 reject({
@@ -28,7 +28,7 @@ function decodeToken(token) {
             resolve(payload.sub)
         }catch(err) {
         //console.log('token invalido')
-            reject({
+            resolve({
                 status: 500,
                 message: 'Token invalido'
             })
